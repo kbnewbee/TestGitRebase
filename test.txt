@@ -3,3 +3,6 @@ third branch change1
 third branch change2
 third branch change3
 third branch change4
+new changes added after branch two was made
+new changes2 added after branch two was made
+new changes3 added after branch two was made
