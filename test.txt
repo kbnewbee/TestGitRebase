@@ -7,16 +7,14 @@ new changes added after branch two was made
 new changes2 added after branch two was made
 new changes3 added after branch two was made
 
-<<<<<<< HEAD
-
 
 fourth branch change1
 fourth branch change2
 fourth branch change3
 fourth branch change4
-=======
+
 parallel change 1
 parallel change 2
 parallel change 3
 parallel change 4
->>>>>>> main
+
